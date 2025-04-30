@@ -1,0 +1,5 @@
+python useful libraries for data science:
+jupyter
+numpy
+pandas
+mypy  
